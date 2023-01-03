@@ -1,3 +1,11 @@
+# FOR Loops 
+ 
+# for item in list_of_items:
+#   Do Something to each item
+ 
+# for number in range(a, b):
+#   print number    
+
 # For loop 
 fruits = ['apple', 'banana', 'orange', 'mango', 'peach', 'strawberry', 'mulberry']
 

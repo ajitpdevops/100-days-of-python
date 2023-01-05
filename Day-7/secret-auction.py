@@ -32,6 +32,5 @@ for num in range(0, len(bid_war)):
     if bid_amount > highest_bid:
         highest_bidder = bid_war[num]["name"]
         highest_bid = bid_amount
-    elif bid_amount = 
 
 print(f"The highest bid is - {highest_bid}, and the winner is {highest_bidder}")

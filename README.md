@@ -130,3 +130,9 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 Practice using sets to store and manipulate data in your programs.
 Learn about the set function: how to use it to create sets from other data types.
 Learn about set operations: intersection, union, difference, and symmetric difference.
+
+
+# Guides and Import command 
+- Install Virtual Env - sudo apt install python3-venv
+- Create a new virtual env - python3 -m venv myenv
+- Activate the vritual env - source myenv/bin/activate

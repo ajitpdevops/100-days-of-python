@@ -105,8 +105,9 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Practice using functions to organize and reuse code in your programs.
 
 ## Day 8:
-- Learn about modules in Python: how to import and use them in your programs.
-- Practice using built-in modules (e.g., math, random, datetime) and third-party modules (e.g., pandas, numpy).
+- Functions with Output
+- Mathematical Operations
+- Calculator Program
 
 ## Day 9:
 - Learn about lists in Python: how to create, modify, and access list elements.

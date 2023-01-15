@@ -120,6 +120,8 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 
 ## Day 12:
 - Build a "Higher Lower Game"
+## Day 13:
+- Build a Coffee Machine Program
 
 
 # Guides and Import command 

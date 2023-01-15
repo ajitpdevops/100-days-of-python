@@ -118,14 +118,20 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Build a number guess game
 ## Day 11:
 - Debugging your code
-
 ## Day 12:
 - Build a "Higher Lower Game"
 ## Day 13:
 - Build a Coffee Machine Program
+## Day 14:
+- OOP with python
+- You are modelling real world examples.
 
 
 # Guides and Import command 
 - Install Virtual Env - sudo apt install python3-venv
-- Create a new virtual env - python3 -m venv myenv
-- Activate the vritual env - source myenv/bin/activate
+- Create a new virtual env - python3 -m venv venv
+- Activate the vritual env - source venv/bin/activate
+- pip freeze > requirements.txt
+- pip install PrettyTable 
+- pypi.org
+- 

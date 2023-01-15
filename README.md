@@ -113,23 +113,13 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Practice using lists to store and manipulate data in your programs.
 
 ## Day 10:
-- Learn about tuples in Python: how they differ from lists, and how to create, modify, and access tuple elements.
-- Practice using tuples to store and manipulate data in your programs.
-- Learn about the tuple function: how to use it to convert other data types to tuples.
-- Learn about sequence unpacking: how to assign the elements of a tuple or list to individual variables.
-- Learn about the zip function: how to use it to combine multiple lists into a single list of tuples.
+- Variable Scope (Local & Global)
+- Build a number guess game
 ## Day 11:
-- Learn about dictionaries in Python: how to create, modify, and access dictionary elements.
-- Practice using dictionaries to store and manipulate data in your programs.
-- Learn about the dict function: how to use it to create dictionaries from other data types.
-- Learn about the items method: how to use it to iterate over the key-value pairs in a dictionary.
-- Learn about the keys and values methods: how to use them to access the keys and values in a dictionary separately.
+- Debugging your code
 
 ## Day 12:
-- Learn about sets in Python: how to create, modify, and access set elements.
-Practice using sets to store and manipulate data in your programs.
-Learn about the set function: how to use it to create sets from other data types.
-Learn about set operations: intersection, union, difference, and symmetric difference.
+- Build a "Higher Lower Game"
 
 
 # Guides and Import command 

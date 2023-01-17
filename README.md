@@ -1,3 +1,10 @@
+# Important Lessons to be a good programmer
+THere are many important things you need to learn or get used to in order become a great programmer
+- Break the problem into smaller chunks 
+- Create a flow chart to understand to sequalltially solve the problem
+- Understand what components needs to created as models/classes and what needs function
+
+
 # Description
 
 Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. 
@@ -118,14 +125,27 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Build a number guess game
 ## Day 11:
 - Debugging your code
-
 ## Day 12:
 - Build a "Higher Lower Game"
 ## Day 13:
 - Build a Coffee Machine Program
+## Day 14:
+- OOP with python
+- You are modelling real world examples.
+
+## Day14 
+- BUild a Coffee machine Program with OOP
+
+## Day15
+- Installation of PyCharm 
+- export PATH=$PATH:/opt/pycharm-community-2022.3.1/bin/
 
 
 # Guides and Import command 
 - Install Virtual Env - sudo apt install python3-venv
-- Create a new virtual env - python3 -m venv myenv
-- Activate the vritual env - source myenv/bin/activate
+- Create a new virtual env - python3 -m venv venv
+- Activate the vritual env - source venv/bin/activate
+- pip freeze > requirements.txt
+- pip install PrettyTable 
+- pypi.org
+- 

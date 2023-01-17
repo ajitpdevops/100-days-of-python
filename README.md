@@ -1,3 +1,10 @@
+# Important Lessons to be a good programmer
+THere are many important things you need to learn or get used to in order become a great programmer
+- Break the problem into smaller chunks 
+- Create a flow chart to understand to sequalltially solve the problem
+- Understand what components needs to created as models/classes and what needs function
+
+
 # Description
 
 Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. 
@@ -125,6 +132,13 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 ## Day 14:
 - OOP with python
 - You are modelling real world examples.
+
+## Day14 
+- BUild a Coffee machine Program with OOP
+
+## Day15
+- Installation of PyCharm 
+- export PATH=$PATH:/opt/pycharm-community-2022.3.1/bin/
 
 
 # Guides and Import command 

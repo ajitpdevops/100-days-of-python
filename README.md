@@ -3,7 +3,10 @@ THere are many important things you need to learn or get used to in order become
 - Break the problem into smaller chunks 
 - Create a flow chart to understand to sequalltially solve the problem
 - Understand what components needs to created as models/classes and what needs function
-
+- Documentation
+- Stackoverflow search on google 
+- chatGPT
+- 
 
 # Description
 

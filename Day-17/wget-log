@@ -1,0 +1,6 @@
+--2023-02-04 08:28:55--  https://att-c.udemycdn.com/2020-11-10_11-45-27-2ed5e2b281c9e8adb9cfc96423bd574f/original.csv?response-content-disposition=attachment%3B+filename%3Dweather_data.csv
+Resolving att-c.udemycdn.com (att-c.udemycdn.com)... 18.161.125.114, 18.161.125.26, 18.161.125.66, ...
+Connecting to att-c.udemycdn.com (att-c.udemycdn.com)|18.161.125.114|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-02-04 08:28:55 ERROR 403: Forbidden.
+

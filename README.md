@@ -143,6 +143,13 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Installation of PyCharm 
 - export PATH=$PATH:/opt/pycharm-community-2022.3.1/bin/
 
+## Day 16
+
+## Day 17
+- Listen to the events (key strokes)
+- Higher Order functions
+- GAME: Turtle Race
+
 
 # Guides and Import command 
 - Install Virtual Env - sudo apt install python3-venv

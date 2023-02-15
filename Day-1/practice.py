@@ -31,6 +31,9 @@ print(f"Hello {name}")
 
 print(f"oh wow, so you are a {input('what is your profession?')}")
 
+print('We are the {} who say "{}!"'.format('knights', 'Ni'))
+
+
 
 
 name = input("What is your name? ")

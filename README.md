@@ -85,18 +85,26 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 # 100 Days Carriculum
 
 ## Day 1:
-- Install Python and a code editor (e.g., Visual Studio Code) on your computer.
-- Write your first Python program: print a message to the console.
-- Learn about the basic structure of a Python program: comments, indentation, and white space.
+- Introduction to python
+- Variables, print, f print, string methods
+- Modules & Custom modules
+- Python programs:
+    * Remaining days
+    * Tip calculator
+    * Treasure island
 
 ## Day 2: 
-- Learn about variables in Python: what they are, how to declare them, and how to assign values to them.
-- Practice using variables to store and manipulate different types of data (e.g., strings, integers, floats).
-- Learn about the different data types in Python: int, float, str, bool, and None.
+- Lists, random
+- Python Programs:
+    * Rock-Paper-Scissors
+    * Pay the bill
+    * Treasure map
 
 ## Day 3:
-- Learn about operators in Python: arithmetic, comparison, assignment, and logical operators.
-- Practice using operators to perform calculations and make decisions in your programs.
+- for loop, random, range
+- Python Programs:
+    * FizzBuzz
+    * Random Password generator
 
 ## Day 4:
 - Learn about the if statement in Python: how to use it to make decisions in your programs.
@@ -144,12 +152,17 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - export PATH=$PATH:/opt/pycharm-community-2022.3.1/bin/
 
 ## Day 16
+- Introduction to colorgram
+- Exctracts colors from the image
+- create hirst-painting 
 
 ## Day 17
 - Listen to the events (key strokes)
 - Higher Order functions
 - GAME: Turtle Race
 
+## Day 18
+- Build a Sanke Game
 
 # Guides and Import command 
 - Install Virtual Env - sudo apt install python3-venv

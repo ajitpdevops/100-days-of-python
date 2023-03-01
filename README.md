@@ -164,6 +164,9 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 ## Day 18
 - Build a Sanke Game
 
+## Djnago
+- Create a website using Django
+
 # Guides and Import command 
 - Install Virtual Env - sudo apt install python3-venv
 - Create a new virtual env - python3 -m venv venv

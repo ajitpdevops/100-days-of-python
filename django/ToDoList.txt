@@ -1,0 +1,16 @@
+1. DONE: Create a virtual environment, install django, create project
+2. Base Pages, templates
+    a. DONE: create page pages 
+    b. create base template 
+    c. create front page 
+    d. create about page 
+
+3. Authetication 
+4. Simple dashboard 
+5. Create new leads 
+6. Change and delete leads 
+7. Convert leads to client 
+8. change and delete clients 
+9. IMplement solutions for teams 
+10. implement a payment solution / monthly recurring payments 
+11. Deploy

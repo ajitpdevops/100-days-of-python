@@ -5,6 +5,5 @@ from challenges.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', index, name='home-mypage'),
-    path('challenges/', include('challenges.urls'))
+    path("challenges/", include("challenges.urls"))
 ]

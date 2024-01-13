@@ -15,6 +15,4 @@ So in summary - use a class method when you need access to the class or to modif
 
 
 
-## Errors 
-- AttributeError: can't set attribute 
-- RecursionError: maximum recursion depth exceeded
+

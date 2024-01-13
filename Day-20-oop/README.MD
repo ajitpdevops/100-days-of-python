@@ -12,3 +12,9 @@
 - @staticmethod - These are utility function that has some relationship with class but not depend on each isntance. 
 
 So in summary - use a class method when you need access to the class or to modify class state, and a static method when the method only depends on parameters rather than the class itself. Let me know if any part of the difference needs more clarification!
+
+
+
+## Errors 
+- AttributeError: can't set attribute 
+- RecursionError: maximum recursion depth exceeded
